@@ -46,3 +46,14 @@ int main() {
     
     return 0;
 }
+
+//out put
+
+H&M -&Denim
+Bootcut:Dark Blue
+
+H&M -&Denim
+Wide leg:Black
+
+H&M -&Denim
+Skinny:Grey
